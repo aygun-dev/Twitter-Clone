@@ -1,2 +1,2 @@
 
-[test video](test_video.mov)
+<video src='test_video.mov' width=800/>
