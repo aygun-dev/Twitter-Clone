@@ -1,10 +1,12 @@
+# Twitter Klon Uygulaması
+
 Flutter'ı öğrenmek için başladığım ilk clone uygulamasıdır.<br>
 Şuan sadece statik veriler ile çalışıyor herhangi bir web servis bağlı değildir.
 
-# Test Video
+## Test Video
 https://user-images.githubusercontent.com/44132199/174092257-4dfa6e54-d7e7-42c7-90f1-5064ad86d08b.mov
 
-# Ekran Görüntüleri
+## Ekran Görüntüleri
  
 <p float="left">
 <img src="https://user-images.githubusercontent.com/44132199/174092613-ed26566d-13b5-4271-9f27-c2fd717c84f1.png" width="234" height="506.4" />
